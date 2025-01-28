@@ -31,7 +31,8 @@
 </div>
 
 🌐 Vamos nos conectar?  
-- [LinkedIn](www.linkedin.com/in/luigi-giuseppe-jampietro-sciarretta)  
-- [Email](mailto:lsciarretta93@gmail.com)  
+<p  align="Left"> Linkedin: www.linkedin.com/in/luigi-giuseppe-jampietro-sciarretta  
+ Email: lsciarretta93@gmail.com
+</p> 
 
 ###
